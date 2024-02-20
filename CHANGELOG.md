@@ -1,3 +1,7 @@
+## 7.6.18
+
+- Core: Fix fail to load `main.ts` error message - [#26035](https://github.com/storybookjs/storybook/pull/26035), thanks [@ndelangen](https://github.com/ndelangen)!
+
 ## 7.6.17
 
 - Addon-docs: Fix Table of Contents heading leak - [#23677](https://github.com/storybookjs/storybook/pull/23677), thanks [@vmizg](https://github.com/vmizg)!
